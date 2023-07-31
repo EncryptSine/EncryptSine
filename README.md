@@ -23,8 +23,8 @@ Feel free to reach out to me through any of the following platforms:
 <h2>My social network 💻</h2>
 
 
-<a href="https://www.instagram.com/officialrickastley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clement.falcon" height="50" width="50" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m5sEPecJ" height="50" width="50" /></a>
+<a href="https://www.instagram.com/officialrickastley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me" height="50" width="50" /></a>
+<a href="https://discord.gg/BppCXgNx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m5sEPecJ" height="50" width="50" /></a>
 <a href="https://twitter.com/EncryptTheSine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m5sEPecJ" height="50" width="50" /></a>
 <h2>No SnapChat because this social network suck</h2>
 
