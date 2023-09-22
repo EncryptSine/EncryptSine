@@ -47,7 +47,7 @@ Feel free to reach out to me through any of the following platforms:
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" **alt="rust" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" **alt="swift" width="50" height="50"/>
-  (also assembly)
+  (also assembly and dart)
   
 </p>
 
