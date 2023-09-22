@@ -16,7 +16,7 @@ Feel free to reach out to me through any of the following platforms:
 
 - **email :** EncryptSine.pro@gmail.com
 
-- **PortFolio :** *<a href="[www.mathyllein.com](https://encryptsine.github.io/portfolio-private/)">EncryptSine.com</a>*
+- **PortFolio :** *<a href="https://encryptsine.github.io/portfolio-private/">EncryptSine.com</a>*
 
 </h2>
 
