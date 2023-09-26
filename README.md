@@ -44,5 +44,3 @@ Feel free to reach out to me through any of the following platforms:
   (also assembly and dart)
   
 </p>
-
-<h2>No recent activity I don't have any I use my pc as cloud</h2>
