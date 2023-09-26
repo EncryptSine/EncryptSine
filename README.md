@@ -2,12 +2,6 @@
 
 <h2 align="center">Welcome to my GitHub profile! I'm EncryptSine, a passionate developer (who hate JS 💀).</h2>
 
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EncryptSine)](https://github.com/EncryptSine/github-profile-trophy)
-
-<h2>Not so many, I know but it's better than nothing 😎</h2>
-
 <h2>
 
 💼 Contact Me
