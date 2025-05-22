@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm EncryptSine !</h1>
+<h1 align="center">Hi there 👋, I'm Mathyllein !</h1>
 
-<h2 align="center">Welcome to my GitHub profile! I'm EncryptSine, a passionate developer (who hate JS 💀).</h2>
+<h2 align="center">Welcome to my GitHub profile! I'm Mathyllein, a passionate developer / Hardware enjoyer :3.</h2>
 
 <h2>
 
