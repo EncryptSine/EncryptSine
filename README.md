@@ -8,8 +8,8 @@
 
 Feel free to reach out to me through any of the following platforms:
 
-- **email :** EncryptSine.pro@gmail.com
+- **email :** contact@mathyllein.com
 
-- **PortFolio :** *<a href="https://encryptsine.github.io/portfolio-private/">EncryptSine.com</a>*
+- **PortFolio :** *<a href="https://mathyllein.com">mathyllein.com</a>*
 
 </h2>
